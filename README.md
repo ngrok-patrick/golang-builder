@@ -12,5 +12,5 @@ dockertest:
 
 ## Run like this:
 ```
-docker run -it -e "GITHUB=https://github.com/ngrok-patrick/golang-sample.git"  oktaadmin/dockertest
+docker run -it -e "GITHUB=https://github.com/ngrok-patrick/golang-sample.git" oktaadmin/dockertest
 ```
